@@ -1,1 +1,2 @@
 # Social_Media_Analytics
+An analysis of social media data of what worked well and what didn’t as well as recommendations of a future social media strategy based on past performance. Performance marketing is a type of digital marketing strategy that focuses on driving measurable results through a specific action, such as a sale, lead generation, or website traffic. The goal of performance marketing is to generate a positive return on investment (ROI) by using data and analytics to optimize campaigns for maximum efficiency and effectiveness.
